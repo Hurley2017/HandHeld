@@ -1,0 +1,27 @@
+# Build outputs
+artifacts/
+bin/
+obj/
+out/
+build/
+dist/
+
+# Android
+client/.gradle/
+client/local.properties
+client/app/build/
+client/build/
+
+# .NET
+host/**/bin/
+host/**/obj/
+host/.vs/
+
+# Data / runtime
+data/
+*.log
+
+# IDE
+.idea/
+*.user
+.vs/
